@@ -1,0 +1,1 @@
+const cfgs=(()=>({VUE_APP_KEYCLOAK_URL:"https://sso.sit-k8s.esquel.com/auth",VUE_APP_KEYCLOAK_REALM:"esquel-dev",VUE_APP_KEYCLOAK_CLIENT_ID:"passport"}))();
