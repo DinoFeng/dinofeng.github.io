@@ -9,7 +9,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd D:/个人/CIT/Aimde/standard.png
+map_Kd standard.png
 
 newmtl collar
 Ns 28.763235
@@ -19,7 +19,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd D:/个人/CIT/Aimde/standard.png
+map_Kd standard.png
 
 newmtl front_panel
 Ns 28.763235
@@ -29,7 +29,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd D:/个人/CIT/Aimde/standard.png
+map_Kd standard.png
 
 newmtl left_sleeve
 Ns 28.763235
@@ -39,7 +39,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd D:/个人/CIT/Aimde/standard.png
+map_Kd standard.png
 
 newmtl neck_tape
 Ns 28.763235
@@ -49,7 +49,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd D:/个人/CIT/Aimde/standard.png
+map_Kd standard.png
 
 newmtl right_sleeve
 Ns 28.763235
@@ -59,4 +59,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd D:/个人/CIT/Aimde/standard.png
+map_Kd standard.png
