@@ -1,0 +1,62 @@
+# Blender 4.0.2 MTL File: 'short sleeve crew shirt.blend'
+# www.blender.org
+
+newmtl back_body
+Ns 28.763235
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd defaulSkin.png
+
+newmtl back_neck_tape
+Ns 28.763235
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd defaulSkin.png
+
+newmtl collar
+Ns 28.763235
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd defaulSkin.png
+
+newmtl front_body
+Ns 28.763235
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd defaulSkin.png
+
+newmtl left_sleeve
+Ns 28.763235
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd defaulSkin.png
+
+newmtl right_sleeve
+Ns 28.763235
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd defaulSkin.png
